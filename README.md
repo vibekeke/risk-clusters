@@ -13,6 +13,7 @@ A cluster is considered significant if the average risk value of the four cells 
 ## How to Run
 
 javac *.java
+
 java Main
 
 
