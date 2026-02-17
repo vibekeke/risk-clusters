@@ -11,11 +11,10 @@ A cluster is considered significant if the average risk value of the four cells 
 - JDK 23 (tested with 23.0.2)
 
 ## How to Run
-
-javac *.java
-
+```
+javac *.java 
 java Main
-
+```
 
 ## Command-line arguments
 
