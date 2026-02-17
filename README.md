@@ -17,9 +17,9 @@ java Main
 ```
 
 ## Command-line arguments
-
+```
 java Main <fileName> <segmentSize> <minAverage>
-
+```
 By default the program will:
 - test the file riskgrid.txt
 - check cell-segments at a length of 4
